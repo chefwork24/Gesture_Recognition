@@ -5,9 +5,10 @@ Hand gesture recognition using Google's MediaPipe library can be leveraged to cr
 
 
 
-## Screenshots
+## Sample
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Uploading smallest.gif…]()
+
 ## Acknowledgements
 
  - [Google Mediapipe](https://github.com/google/mediapipe)
