@@ -6,7 +6,7 @@ Hand gesture recognition using Google's MediaPipe library can be leveraged to cr
 
 
 ## Sample
-![Uploading smallest.gif…]()
+![smallest.gif]()
 
 
 
