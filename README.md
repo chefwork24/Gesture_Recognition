@@ -6,7 +6,7 @@ Hand gesture recognition using Google's MediaPipe library can be leveraged to cr
 
 
 ## Sample
-![](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-your-gif.gif)
+![](https://github.com/chefwork24/Gesture_Recognition/blob/f6e1d94aa7df6fd8145541d344c909ee14050ef9/smallest.gif.gif)
 
 
 
